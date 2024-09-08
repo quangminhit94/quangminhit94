@@ -3,6 +3,8 @@ Nguyen Quang Minh
 
 quangminhit94@gmail.com
 
+Chat with me Telegram/Zalo: +84916942794
+
 ---
 
 ## Overview
