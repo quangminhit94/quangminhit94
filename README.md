@@ -64,8 +64,6 @@ quangminhit94@gmail.com
 - Developed web applications using Polymer.  
 - Participated in project planning, time estimation, debugging, and progress reporting.
 
----
-
 ### 2016 - 2018
 **JavaScript Developer, Frontend**  
 **Abudhabi Culture**  
