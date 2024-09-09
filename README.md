@@ -27,8 +27,8 @@ Chat with me Telegram/Zalo: +84916942794
 
 ## Personal Experiences
 ### June 2023 - July 2024:
-- Probability statistics research
-- crypto analytic for trading, failed but always believe sucessful someday.
+- Probability statistics research of Vietnamese lottery
+- Crypto analytics, research and trading
 
 ### December 2021 - April 2022:
 **Role:** JavaScript Developer
