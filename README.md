@@ -28,6 +28,7 @@ Chat with me Telegram/Zalo: +84916942794
 ## Personal Experiences
 ### May 2022 - July 2024:
 - Probability statistics research of Vietnamese lottery
+  - Please check here: https://drive.google.com/drive/folders/1-HXWfA_zjhfPbb5hqFaWX_4yDPjNLTC_?usp=sharing
 - Crypto analytics, research and trading
 
 ### December 2021 - April 2022:
