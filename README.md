@@ -11,6 +11,7 @@ Chat with me Telegram/Zalo: +84916942794
 
 - Detail-oriented JavaScript Developer with extensive experience in building web applications using modern frameworks and libraries. Proficient in both frontend and backend development, with a strong focus on performance optimization and user experience. Adept at collaborating with cross-functional teams to deliver high-quality software solutions.
 - I am always positive, confident, gratitude and happy
+- With AI support tools, we can create anything.
 
 ---
 
