@@ -3,22 +3,19 @@ Nguyen Quang Minh
 
 quangminhit94@gmail.com
 
-Chat with me Telegram/Zalo: +84916942794
+Zalo: +84916942794
 
 ---
 
 ## Overview
 
-- Detail-oriented JavaScript Developer with extensive experience in building web applications using modern frameworks and libraries. Proficient in both frontend and backend development, with a strong focus on performance optimization and user experience. Adept at collaborating with cross-functional teams to deliver high-quality software solutions.
-- I am always positive, confident, gratitude and happy
-- With AI support tools, we can create anything.
-
+- Detail-oriented JavaScript Developer with extensive experience in building web applications using modern frameworks and libraries. Strong focus on performance optimization and user experience. Adept at collaborating with cross-functional teams to deliver high-quality software solutions.
 ---
 
 ## Technical Skills
 
-- **Programming Languages:** JavaScript, HTML, CSS  
-- **Frameworks and Libraries:** Vue.js, Node.js  
+- **Programming Languages:** JavaScript
+- **Frameworks and Libraries:** Vue.js, Node.js, Google sheet
 - **Databases:** MySQL, MongoDB  
 - **Development Tools:** Visual Studio Code, Git  
 - **Testing Frameworks:** Cypress, Jest  
@@ -28,9 +25,8 @@ Chat with me Telegram/Zalo: +84916942794
 
 ## Personal Experiences
 ### May 2022 - July 2024:
-- Probability statistics research of Vietnamese lottery
+- Probability statistics research of lottery using Google sheet
   - Please check here: https://drive.google.com/drive/folders/1-HXWfA_zjhfPbb5hqFaWX_4yDPjNLTC_?usp=sharing
-- Crypto analytics, research and trading
 
 ### December 2021 - April 2022:
 **Role:** JavaScript Developer
