@@ -24,7 +24,7 @@ Zalo: +84916942794
 ---
 
 ## Personal Experiences
-### May 2022 - July 2024:
+### May 2022 - now:
 - Probability statistics research of lottery using Google sheet
   - Please check here: https://drive.google.com/drive/folders/1-HXWfA_zjhfPbb5hqFaWX_4yDPjNLTC_?usp=sharing
 
